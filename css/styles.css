@@ -1,0 +1,52 @@
+.col-xs-3{
+  height: 150px;
+  width: 150px;
+}
+
+#box0{
+  border-right: 2.5px solid black;
+  border-bottom: 2.5px solid black;
+}
+
+#box1{
+  border-left: 2.5px solid black;
+  border-bottom: 2.5px solid black;
+  border-right: 2.5px solid black;
+}
+
+#box2{
+  border-left: 2.5px solid black;
+  border-bottom: 2.5px solid black;
+}
+
+#box3{
+  border-top: 2.5px solid black;
+  border-bottom: 2.5px solid black;
+  border-right: 2.5px solid black;
+}
+
+#box4{
+  border: 2.5px solid black;
+}
+
+#box5{
+  border-top: 2.5px solid black;
+  border-left: 2.5px solid black;
+  border-bottom: 2.5px solid black;
+}
+
+#box6{
+  border-top: 2.5px solid black;
+  border-right: 2.5px solid black;
+}
+
+#box7{
+  border-left: 2.5px solid black;
+  border-top: 2.5px solid black;
+  border-right: 2.5px solid black;
+}
+
+#box8{
+  border-top: 2.5px solid black;
+  border-left: 2.5px solid black;
+}
