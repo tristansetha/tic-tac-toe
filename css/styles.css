@@ -1,6 +1,14 @@
 .col-xs-3{
   height: 150px;
   width: 150px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 115px;
+  font-size: 150px;
+}
+
+#results{
+  font-size: 3em;
 }
 
 #box0{
